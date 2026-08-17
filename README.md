@@ -1,16 +1,18 @@
-## Hi there 👋
+<div align="center">
+<h1 align="center">Hola, soy <a>Brayan Triviño</a> 👋</h1>
+</div>
 
-<!--
-**brayan-tri/brayan-tri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://i.imgur.com/weNbHGZ.png">
 
-Here are some ideas to get you started:
+[![YouTube_Channel_Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2KArfcdNRg?style=social)](https://youtube.com/aristidevs?sub_confirmation=1)
+[![Twitch_Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/aristidevs)
+[![GitHub_followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/ArisGuimera)
+![Discord_Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mi
+
+- 📱 
+- ✍️ Uso Python, Git-Hub, Docker
+- 📗 Estudiante 7 semestre ing-sistemas
+- 👨‍💻 Desarrollador
+<br>
