@@ -2,7 +2,7 @@
 <h1 align="center">Hola, soy <a>Brayan Triviño</a> 👋</h1>
 </div>
 
-<img src="https://i.imgur.com/weNbHGZ.png">
+<img src="Gemini_Generated_Image_g4trhwg4trhwg4tr.jpg">
 
 [![YouTube_Channel_Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2KArfcdNRg?style=social)](https://youtube.com/aristidevs?sub_confirmation=1)
 [![Twitch_Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/aristidevs)
