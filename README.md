@@ -4,10 +4,11 @@
 
 <img src="Gemini_Generated_Image_g4trhwg4trhwg4tr.jpg">
 
-[![YouTube_Channel_Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2KArfcdNRg?style=social)](https://youtube.com/aristidevs?sub_confirmation=1)
-[![Twitch_Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/aristidevs)
-[![GitHub_followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/ArisGuimera)
-![Discord_Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
 ## Sobre mi
 
